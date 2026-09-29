@@ -167,7 +167,7 @@ REST-сервис для выполнения переводов между ка
 
 **Стек:**
 
-`Java 21+` `TCP/IP` `Sockets` `Multithreading`
+`Java` `TCP/IP` `Sockets` `Multithreading`
 `ExecutorService` `Maven` `JUnit 5`
 
 🔗 **[Посмотреть репозиторий](https://github.com/loyalist881/network-chat)**
