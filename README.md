@@ -102,7 +102,7 @@ Backend-приложение для хранения файлов, постро�
 
 **Стек:**
 
-`Java 21` `Spring Boot` `Spring Security` `PostgreSQL`
+`Java` `Spring Boot` `Spring Security` `PostgreSQL`
 `Redis` `MinIO` `Liquibase` `Docker` `Testcontainers`
 
 🔗 **[Посмотреть репозиторий](https://github.com/loyalist881/cloud-storage)**
